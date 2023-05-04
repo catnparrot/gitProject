@@ -1,10 +1,10 @@
 m
 
 
-r
+r 1234
 
 
-d
+d 개발자 - abcd
 
 
-f
+f a b
